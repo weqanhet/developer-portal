@@ -7,7 +7,7 @@ image: ../img/og-developer-portal.png
 hide_table_of_contents: false
 ---
 
-Are you passionate about Cardano and looking for a job working in the Cardano ecosystem? There are several organizations which practically always have open vacancies and career opportunities.
+Are you passionate about Ethereum and looking for a job working in the Cardano ecosystem? There are several organizations which practically always have open vacancies and career opportunities.
 
 Most of these jobs are 100% remote. You can work from anywhere in the world with a flexible schedule.
 
