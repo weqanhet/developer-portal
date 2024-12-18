@@ -13,3 +13,68 @@ hello:
   label: Wallet
   permalink: /wallet
   description: Wallet tag description
+  
+ai:
+  label: ai
+  permalink: /Ai
+  description: Leveraging machine intelligence in applications
+
+block explorer:
+  label: Block explorer
+  permalink: /block-explorer
+  description: Tools to access and analyze blockchain/on-chain records
+
+decentralised autonomous organization (DAO):
+  label: DAO
+  permalink: /DAO
+  description: All blockchain-based self-governing organizations
+
+decentralized Exchanges (DEX):
+  label: DEX
+  permalink: /dex
+  description: Decentralized peer-to-peer crypto trading platforms
+
+decentralized finance (DeFi):
+  label: DeFi
+  permalink: /defi
+  description: Blockchain-powered financial services
+
+developer-portal:
+  label: Developer-portal
+  permalink: /developer-portal
+  description: legacy Interview tag
+
+NFT:
+  label: NFT
+  permalink: /nft
+  description: All content related to non-fungible tokens
+
+NFTA:
+  label: NFTA
+  permalink: /nfta
+  description: World’s first Non-Fungible Tokens of Appreciation
+
+open source:
+  label: Open source
+  permalink: /open-source
+  description: All open-source oriented content
+
+oracle:
+  label: Oracle
+  permalink: /oracle
+  description: All content related to public, decentralized data feeds for smart contracts (oracles)
+
+payment:
+  label: Payments
+  permalink: /payments
+  description: Blockchain-based systems including support for eCommerce payments
+
+real world assets:
+  label: RWA
+  permalink: /real-world-assets
+  description: All Real World Assets related content
+
+wallet:
+  label: Wallet
+  permalink: /wallet
+  description: Content for all Cardano-supporting wallets
